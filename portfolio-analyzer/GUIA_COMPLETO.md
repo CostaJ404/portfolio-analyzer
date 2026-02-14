@@ -422,19 +422,11 @@ CACHE_TTL=3600
 
 ---
 
-## 🤝 Suporte
-
-- 📖 [Documentação](docs/)
-- 🐛 [Issues](https://github.com/seu-usuario/portfolio-analyzer/issues)
-- 💬 [Discussions](https://github.com/seu-usuario/portfolio-analyzer/discussions)
-- 📧 Email: seu.email@example.com
-
----
-
 ## 📄 Licença
 
 MIT License - veja [LICENSE](LICENSE)
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade de investidores**
+**Desenvolvido com para a comunidade de investidores**
+**Desenvolvido para Processo Seletivo**
