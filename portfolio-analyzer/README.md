@@ -222,7 +222,7 @@ Este projeto está licenciado sob a Licença MIT - veja [LICENSE](LICENSE) para 
 
 ## 👨‍💻 Autor
 
-Seu Nome - [@seu_usuario](https://twitter.com/seu_usuario)
+Seu Nome - @CostaJ404
 
 ## 🙏 Agradecimentos
 
@@ -240,6 +240,3 @@ Seu Nome - [@seu_usuario](https://twitter.com/seu_usuario)
 - [ ] Trading automatizado
 - [ ] Análise de notícias e sentiment
 
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela!
