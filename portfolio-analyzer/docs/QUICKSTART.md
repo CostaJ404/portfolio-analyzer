@@ -198,12 +198,4 @@ if any(percent > 50 for percent in sector_allocation.values()):
 
 ## Precisa de Ajuda?
 
-- 📧 Email: seu.email@example.com
-- 🐛 Issues: https://github.com/seu-usuario/portfolio-analyzer/issues
-- 💬 Discussions: https://github.com/seu-usuario/portfolio-analyzer/discussions
-
----
-
-**Dica**: Comece pequeno! Adicione 2-3 ações, explore o dashboard, e depois expanda gradualmente.
-
-Bom investimento! 📈
+- 📧 Email: jvinsef360@gmail.com
